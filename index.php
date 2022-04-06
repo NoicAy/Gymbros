@@ -17,6 +17,7 @@
                             <h1>Welkom!</h1>
                             <nav>
                                 <a href="">Home</a>
+                                <a href="contact.php">Contact</a>
                             </nav>
                         </div> 
                     </div>
