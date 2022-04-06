@@ -16,7 +16,7 @@
                         <div class = "wrapper">
                             <h1>Welkom!</h1>
                             <nav>
-                                <a href="">Home</a>
+                                <a href="index.php">Home</a>
                                 <a href="contact.php">Contact</a>
                             </nav>
                         </div> 
