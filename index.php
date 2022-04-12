@@ -18,7 +18,10 @@
     <main>
         <div class ="main-menu">
             <div class ="wrapper">
-                        
+            <?php if(isset($_GET['msg']))
+                {
+                    echo "<div class='msg'>" . $_GET['msg'] . "</div>";
+                } ?>
             </div>
         </div>
     </main>
