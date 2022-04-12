@@ -18,7 +18,7 @@ session_start();
 
     
     <div class="container">
-        <form action="backend/rollercoasterController" method="post">
+    <form action="backend/rollercoasterController.php" method="post">
         <input type="hidden" name="action" value="contact">
             <div class="style">
                 <div class="wrapper">
