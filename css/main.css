@@ -26,10 +26,13 @@ header{
 header a{
     color: white;
     text-decoration: none;
+    font-family: sans-serif;
     
 }
 a:hover {
     background-color: yellow;
     color:black
   }
-
+.header-menu h1{
+    font-family: sans-serif;
+}

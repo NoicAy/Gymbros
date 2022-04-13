@@ -24,6 +24,15 @@
                 } ?>
             </div>
         </div>
+
+       
+       <div class = "wrapper">
+        <h1> <span id="serV">Ser</span>vices</h1>
+            <div class = "serviceBox">
+                
+                <h3>Coffee</h3>
+                <p><span id = "coffeeBox">Lorem, ipsum dolor, sit amet consectetur adipisicing elit. Officiis hic porro quis sed vel, sunt, vero nam rerum, eum quae consectetur. Sint nesciunt voluptatem voluptate natus, ex ab laborum deserunt.</span></p>
+            </div>
     </main>
 </body>
 <?php
