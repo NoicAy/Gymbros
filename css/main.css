@@ -20,17 +20,17 @@ header nav{
 }
 
 header{
-    background-color: #4bcaff;
+    background-color: yellow;
 }
 
 header a{
-    color: white;
+    color: black;
     text-decoration: none;
     font-family: sans-serif;
     
 }
 a:hover {
-    background-color: yellow;
+    background-color: cornflowerblue;
     color:black
   }
 .header-menu h1{
@@ -42,9 +42,14 @@ a:hover {
 }
 
 .achtbaanBox2{
+    background-color: white;
     font-family: sans-serif;
 }
 
 .achtbaanBox2 img{
     width: 945px;
+}
+
+body{
+    background-color: cornflowerblue;
 }
